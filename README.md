@@ -1,5 +1,7 @@
 # Bug-Clock
 
+*Cyber Wabi-Sabi: The Beauty of Simplicity* 
+
 ## Free download in [Microsoft Store](https://apps.microsoft.com/detail/9nn4mqpz160t?hl=en-US&gl=CZ)
 
 <img width="3440" height="1440" alt="Bug Clock (5)" src="https://github.com/user-attachments/assets/e67da823-fccf-4e9c-9b1a-c76084a9bb99" />
